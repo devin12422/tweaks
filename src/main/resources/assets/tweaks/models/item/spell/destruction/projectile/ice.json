@@ -1,0 +1,6 @@
+{
+	"parent": "tweaks:item/spell/spell",
+	"textures": {
+		"layer0": "tweaks:item/spell/destruction/projectile/ice"
+	}
+}

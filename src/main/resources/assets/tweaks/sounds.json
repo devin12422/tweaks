@@ -1,0 +1,22 @@
+{
+	"hit": {
+		"sounds": [
+			"tweaks:hit"
+		]
+	},
+	"hit_heavy": {
+		"sounds": [
+			"tweaks:hitheavy"
+		]
+	},
+	"hit_light": {
+		"sounds": [
+			"tweaks:hitlight"
+		]
+	},
+	"hammer_land": {
+		"sounds": [
+			"tweaks:hammer"
+		]
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "tweaks:item/weapon/twohanded/bardiche/bardiche",
+  "textures": {
+    "layer0": "tweaks:item/weapon/twohanded/bardiche/iron"
+  }
+}

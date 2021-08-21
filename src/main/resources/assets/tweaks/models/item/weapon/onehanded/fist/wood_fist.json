@@ -1,0 +1,14 @@
+{
+	"parent": "tweaks:item/weapon/onehanded/fist/fist",
+	"textures": {
+		"layer0": "tweaks:item/weapon/onehanded/fist/wood"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"parrying": 1
+			},
+			"model": "tweaks:item/weapon/onehanded/fist/wood_parry"
+		}
+	]
+}

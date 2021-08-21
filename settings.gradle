@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        maven { url "https://maven.fabricmc.net/" }
+        maven {
+        	name = "CottonMC"
+        	url = "https://server.bbkr.space/artifactory/libs-release"
+    	}
+    	jcenter()
+    	maven {
+			name = 'Jitpack'
+			url = 'https://jitpack.io'
+		}
+    	
+        gradlePluginPortal()
+    }
+}
